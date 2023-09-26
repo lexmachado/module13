@@ -1,0 +1,6 @@
+node_modules
+.env
+.DS_Store
+DB_USER='sql_username'
+DB_PASSWORD='sql_password'
+DB_NAME='ecommerce_db'
